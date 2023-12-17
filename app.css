@@ -1,0 +1,29 @@
+body {
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    height: 100vh;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15 rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;    
+    padding: .25rem;
+}
